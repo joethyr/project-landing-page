@@ -8,7 +8,7 @@ The objective of the project is to create a webpage from a provided design ([Ful
 
 ### Executing program
 
-To view webpage, simply open the 'index.html' file.
+To view webpage, simply open the `index.html` file.
 ## Sources
 
 [The Odin Project](https://www.theodinproject.com/)
