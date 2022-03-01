@@ -8,6 +8,33 @@
   width: 550px;
 }
 
+#header-image figcaption {
+    background-color: #1f2937;
+    font: italic smaller sans-serif;
+    text-align: center;
+}
+
+figcaption {
+  color: gray;
+    font: italic smaller sans-serif;
+    text-align: center;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+}
+
 .infomation-image {
   width: 10%;
 }
